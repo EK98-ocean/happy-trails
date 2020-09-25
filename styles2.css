@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+    font-size: 14pt;
+}
+
+.tropical{
+    background-color: skyblue;
+    color: springgreen;
+}
+
+h2.tropical{
+    color: rgb(22, 89, 145);
+}
+
+img.tropical{
+    border-color: yellowgreen;
+    border-width: 5px;
+}
+
+h1{
+    font-color;
+}
