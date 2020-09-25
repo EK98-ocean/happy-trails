@@ -1,0 +1,18 @@
+body{
+    background-color: thistle;
+    font-family: sans-serif;
+}
+.tropical{
+    font-family: fantasy;
+}
+p.tropical{
+    color: #7dc410;
+}
+h1.tropical{
+    color: #f7325e;
+}
+.popular{
+    color: red;
+    background-color: gold;
+    font-style: italic;
+}
